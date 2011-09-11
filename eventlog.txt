@@ -1,4 +1,3 @@
-[]
 ADD 4
 ADD 9
 REM 1
